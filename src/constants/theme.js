@@ -2,8 +2,9 @@ const COLORS = {
     red: '#ED5359',
     darkgray : '#5D6275',
     mediumGray: '#A6ABBC',
-    lightGray: '#E5ECFC',
-    white : '#F4F7FE',
+    Gray: '#E5ECFC',
+    lightGray : '#F4F7FE',
+    white : '#ffffff',
     green : '#38C682'
 }
 

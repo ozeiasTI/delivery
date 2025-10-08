@@ -1,11 +1,11 @@
-import { View, Text, TouchableOpacity } from "react-native";
+import { View, Text, TouchableOpacity, ScrollView } from "react-native";
 import { styles } from "./registro.style";
 import Header from "../../components/header/header";
 import TextBox from "../../components/textbox/textbox";
 import Button from "../../components/button/button";
 
 function Registro() {
-  return (
+  return(
     <View style={styles.container}>
       <Header texto="Criar sua conta." />
 

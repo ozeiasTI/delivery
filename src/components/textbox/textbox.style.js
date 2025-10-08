@@ -3,11 +3,11 @@ import { COLORS, FONT_SIZE } from "../../constants/theme"
 export const styles = {
     input : {
       width: '100%',
-      backgroundColor: COLORS.white,
+      backgroundColor: COLORS.lightGray,
       padding: 10,
       borderRadius: 6,
       borderWidth: 1,
-      borderColor: COLORS.lightGray
+      borderColor: COLORS.Gray
     },
     label : {
         textAlign: 'left',
